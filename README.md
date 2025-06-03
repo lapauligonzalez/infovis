@@ -1,4 +1,4 @@
-# Coursework for the course "Visualización de la Información" at ITBA
+# Coursework for the course "Visualización de la Información"
 
 The course "Visualización de la Información" was focused on learning the basic concepts of data visualization in order to create effective data reports using Tableau. Below are the visualizations from a project I developed, which aimed to extract insights from the WhatsApp group chat with my closest friends.
 
